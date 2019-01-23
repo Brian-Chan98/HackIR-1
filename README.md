@@ -1,4 +1,4 @@
-#HackIR
+# HackIR
 
 During HackIR, our team consisted of: Brian Chan, Carson Kaucher, and Veronika Nguyen
 We created two projects: Hack your Health and also Cryptography Solver
@@ -10,8 +10,8 @@ An implementation of an pomodoro timer that has a website blocking feature incre
 ensure the user to be mind their health by taking breaks.
 
 
-#Cryptography Solver
+# Cryptography Solver
 Program solves cyper text that the user puts in.
 
-#HackerEarth link:
+# HackerEarth link:
 https://hackir.hackerearth.com/sprints/hackir/dashboard/85e0714/submission/
